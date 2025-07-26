@@ -1,10 +1,10 @@
 [package]
 name = "simple-home-dir"
-version = "0.5.1"
+version = "0.5.2"
 edition = "2024"
 license = "MIT"
-repository = "https://github.com/splurf/simple-home-dir"
-authors = ["Evan Schwartzentruber <evandotschwartzentruber@gmail.com>"]
+repository = "https://github.com/eschwart/simple-home-dir"
+authors = ["Evan Schwartzentruber <ejsch03@gmail.com>"]
 description = "Returns the path of the current user's home directory if known."
 keywords = ["home", "directory", "home_dir"]
 categories = ["accessibility"]
